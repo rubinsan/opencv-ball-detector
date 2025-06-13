@@ -1,5 +1,5 @@
 # opencv-ball-detector
-Single file program to detect color balls in real time
+Single file program to detect color balls in real time using the opencv library
 
 ## Authors
 
